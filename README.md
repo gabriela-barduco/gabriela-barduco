@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou a Gabriela Barduco 👋
 
-<!--
-**gabilarapupobarduco-netizen/gabilarapupobarduco-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Social Media & Desenvolvedora Front-end** · São José, SC
 
-Here are some ideas to get you started:
+Crio conteúdo que engaja e construo as páginas que convertem.
+Estou cursando Análise e Desenvolvimento de Sistemas e me especializando em UX Design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+
+HTML · CSS · JavaScript · Figma · Git
+
+## 🚀 Projetos
+
+- **[Atende Aí](https://oatendeai.com.br)** — SaaS de agendamento para profissionais autônomos
+- **Portfólio** — social media, vídeo e landing pages (em breve)
+- **curso-javascript** — exercícios e projetos do curso de JavaScript (em breve)
+
+## 📚 Aprendendo agora
+
+JavaScript, algoritmos e UX Design
+
+## 📬 Contato
+
+[LinkedIn](https://www.linkedin.com/in/gbarduco) · gabilarapupobarduco@gmail.com
